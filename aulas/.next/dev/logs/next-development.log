@@ -1,0 +1,29 @@
+[00:00:01.672] Server  LOG      ✓ Ready in 912ms
+[00:00:05.800] Browser LOG     0
+[00:00:07.028] Browser LOG     1
+[00:00:07.399] Browser LOG     2
+[00:00:07.540] Browser LOG     3
+[00:00:07.696] Browser LOG     4
+[00:00:39.369] Server  LOG      ✓ Compiled in 17ms
+[00:00:46.175] Browser ERROR   uncaughtError: ReferenceError: consle is not defined
+[00:01:01.567] Server  LOG      ✓ Compiled in 8ms
+[00:01:04.768] Browser LOG     Test
+[00:01:10.505] Browser LOG     Test
+[00:01:11.695] Browser LOG     Test
+[00:01:22.103] Browser LOG     Test
+[00:01:22.888] Browser LOG     Test
+[00:01:23.627] Browser LOG     Test
+[00:01:24.107] Browser LOG     Test
+[00:01:27.512] Server  LOG      ✓ Compiled in 10ms
+[00:01:30.434] Browser LOG     7
+[00:01:31.204] Browser LOG     8
+[00:01:31.682] Browser LOG     9
+[00:01:31.870] Browser LOG     10
+[00:01:32.060] Browser LOG     11
+[00:01:32.220] Browser LOG     12
+[00:01:32.394] Browser LOG     13
+[00:07:09.404] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Users\Rodrigo\Documents\curso.dev\aulas-curso-dev\aulas\web\pages'
+[00:07:09.413] Server  ERROR    ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir 'C:\Users\Rodrigo\Documents\curso.dev\aulas-curso-dev\aulas\web\pages'
+[00:07:09.420] Server  ERROR    ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir 'C:\Users\Rodrigo\Documents\curso.dev\aulas-curso-dev\aulas\web\pages'
+[00:07:09.445] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Users\Rodrigo\Documents\curso.dev\aulas-curso-dev\aulas\web\pages'
+[00:07:09.448] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Users\Rodrigo\Documents\curso.dev\aulas-curso-dev\aulas\web\pages'

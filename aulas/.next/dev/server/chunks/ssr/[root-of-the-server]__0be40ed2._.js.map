@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Rodrigo/Documents/curso.dev/aulas-curso-dev/aulas/web/pages/index.js"],"sourcesContent":["import React, { useState } from \"react\";\n\nfunction Home() {\n  const [count, setCount] = useState(0);\n  const increment = () => {\n    console.log(count);\n    setCount(count + 1);\n  };\n  const decrement = () => {\n    setCount(count - 1);\n  };\n\n  return (\n    <>\n      <div>Counter app</div>\n      <button onClick={decrement}> - </button>\n      <span>Clicks {count}</span>\n      <button onClick={increment}> + </button>\n    </>\n  );\n}\n\nexport default Home;\n"],"names":[],"mappings":";;;;;AAAA;;;AAEA,SAAS;IACP,MAAM,CAAC,OAAO,SAAS,GAAG,IAAA,+GAAQ,EAAC;IACnC,MAAM,YAAY;QAChB,QAAQ,GAAG,CAAC;QACZ,SAAS,QAAQ;IACnB;IACA,MAAM,YAAY;QAChB,SAAS,QAAQ;IACnB;IAEA,qBACE;;0BACE,qKAAC;0BAAI;;;;;;0BACL,qKAAC;gBAAO,SAAS;0BAAW;;;;;;0BAC5B,qKAAC;;oBAAK;oBAAQ;;;;;;;0BACd,qKAAC;gBAAO,SAAS;0BAAW;;;;;;;;AAGlC;uCAEe","debugId":null}}]
+}
