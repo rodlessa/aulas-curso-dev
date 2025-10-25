@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Rodrigo/Documents/curso.dev/aulas-curso-dev/aulas/web/pages/index.js"],"sourcesContent":["function Home() {\n  return <h1> Response </h1>;\n}\n\nexport default Home;\n"],"names":[],"mappings":";;;;;;AAAA,SAAS;IACP,qBAAO,qKAAC;kBAAG;;;;;;AACb;uCAEe","debugId":null}}]
+}
